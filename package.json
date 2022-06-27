@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/Romapsp/RomanSurkovRepository#readme",
   "dependencies": {
+    "jest": "^28.1.1",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.3"
   }
 }
