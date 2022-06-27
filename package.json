@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Romapsp/RomanSurkovRepository/issues"
   },
-  "homepage": "https://github.com/Romapsp/RomanSurkovRepository#readme"
+  "homepage": "https://github.com/Romapsp/RomanSurkovRepository#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
